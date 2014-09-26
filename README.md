@@ -1,5 +1,5 @@
 <pre>
-             @KYLOPHONE ——-Born (Seattle, WA)
+             <a href="https://www.twitter.com/kylophone">@KYLOPHONE</a> ——-Born (Seattle, WA)
                            |
                            Windows 3.1 & 95
                            |————————————————MUSIC
