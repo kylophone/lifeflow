@@ -12,7 +12,7 @@
     |                      Computer Engineering    |
     E.E. School (inc.)     |                       Digital Audio, DAWs
     |                      C, Python, & beyond     |
-    Engineer @ MPR|APM -———+———————————————————————Audio Engineer @ TMCH
+    Engineer @ <a href = "http://americanpublicmedia.publicradio.org/">MPR|APM</a> -———+———————————————————————Audio Engineer @ TMCH
     |                      EBU R128                |
    ???                     |                       Tubes, tape, & synthesizers
                            AoIP                    |    
